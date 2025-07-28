@@ -4,7 +4,7 @@ This project is a complete notes application using MongoDB, Express, React and N
 
 You can see the notes application [here](https://mern-thinkboard-5f1v.onrender.com)
 
-# Highlights:
+## Highlights:
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
 - ✨ Create, Update and Delete Notes with Title and Description
@@ -12,9 +12,9 @@ You can see the notes application [here](https://mern-thinkboard-5f1v.onrender.c
 - ⚙️ Rate Limiting with Upstash Redis
 - 🚀 Completely Responsive UI
 
-# .env Setup
+## .env Setup
 
-## ```/backend```
+### ```/backend```
 
 ```
 MONGO_URI=<your_mongo_uri>
@@ -25,7 +25,7 @@ UPSTASH_REDIS_REST_TOKEN=<your_redis_rest_token>
 NODE_ENV=development
 ```
 
-# 🔧 Run the backend
+## 🔧 Run the backend
 
 ```cd backend```
 
@@ -33,7 +33,7 @@ NODE_ENV=development
 
 ```npm run dev```
 
-# 🖥️ Run the frontend
+## 🖥️ Run the frontend
 
 ```cd frontend```
 
